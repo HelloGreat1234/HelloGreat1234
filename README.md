@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello this is Garvit Gupta from NIT Kurukshetra
-<br>
+<br><br>
 [![HelloGreat1234's GitHub | Stats](https://stats.quine.sh/HelloGreat1234/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=HelloGreat1234)
 <!--
 **HelloGreat1234/HelloGreat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
